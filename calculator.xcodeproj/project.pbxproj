@@ -58,6 +58,11 @@
 			path = calculatorUITests;
 			sourceTree = "<group>";
 		};
+		55D56B3E2CEA80250062F219 /* assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = assets;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,7 @@
 		550098C52CEA0E1100E050C8 = {
 			isa = PBXGroup;
 			children = (
+				55D56B3E2CEA80250062F219 /* assets */,
 				550098D02CEA0E1100E050C8 /* calculator */,
 				550098E72CEA0E1200E050C8 /* calculatorTests */,
 				550098F12CEA0E1200E050C8 /* calculatorUITests */,
@@ -122,6 +128,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				550098D02CEA0E1100E050C8 /* calculator */,
+				55D56B3E2CEA80250062F219 /* assets */,
 			);
 			name = calculator;
 			packageProductDependencies = (
