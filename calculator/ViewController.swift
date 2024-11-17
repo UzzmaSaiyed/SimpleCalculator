@@ -108,7 +108,5 @@ class ViewController: UIViewController {
         secondOperand = nil
         operation = nil
         disp = nil
-        inputbox.text = "0"
-        print("Successcull")
-    }
+        inputbox.text = "0"    }
 }
